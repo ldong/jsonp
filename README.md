@@ -13,7 +13,7 @@ The response from the server will be in JSON format, and will be executed as JS.
 PS: Rumor also says HTML5 will be allowing CORS via AJAX.
 
 I hope this example will help you to understand what JSONP is and how it works
-in a intuitive way.
+in an intuitive way.
 
 ## Example
 
