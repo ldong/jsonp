@@ -23,6 +23,8 @@ to see what's going on.
 
 ## Reference:
 
-[简单描述JSON跟JSONP的区别以及实战](http://www.qixing318.com/article/simply-describe-the-difference-between-json-with-json-as-well-as-the-actual-combat.html)
+[W3 CORS](http://www.w3.org/wiki/CORS)
 
 [JSONP跨域的原理解析](http://www.nowamagic.net/librarys/veda/detail/224)
+
+[简单描述JSON跟JSONP的区别以及实战](http://www.qixing318.com/article/simply-describe-the-difference-between-json-with-json-as-well-as-the-actual-combat.html)
